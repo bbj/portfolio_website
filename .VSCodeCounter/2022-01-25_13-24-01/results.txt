@@ -1,0 +1,70 @@
+Date : 2022-01-25 13:24:01
+Directory : /Users/bbj/Library/Mobile Documents/com~apple~CloudDocs/work/portfolio/portfolio_website-STARTER/src
+Total : 29 files,  1719 codes, 36 comments, 245 blanks, all 2000 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JavaScript |         29 |      1,719 |         36 |        245 |      2,000 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++-------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                                                        | files      | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                                                           |         29 |      1,719 |         36 |        245 |      2,000 |
+| components                                                                                                                                                  |         17 |      1,266 |         32 |        179 |      1,477 |
+| components/Acomplishments                                                                                                                                   |          2 |        129 |          0 |         26 |        155 |
+| components/BackgrooundAnimation                                                                                                                             |          1 |        363 |          0 |          2 |        365 |
+| components/Footer                                                                                                                                           |          2 |        145 |          0 |         31 |        176 |
+| components/Header                                                                                                                                           |          2 |        155 |          3 |         20 |        178 |
+| components/Hero                                                                                                                                             |          2 |         26 |          0 |          7 |         33 |
+| components/NavDropDown                                                                                                                                      |          2 |         77 |          0 |         13 |         90 |
+| components/Projects                                                                                                                                         |          2 |        106 |          0 |         19 |        125 |
+| components/Technologies                                                                                                                                     |          2 |        122 |          0 |         25 |        147 |
+| components/TimeLine                                                                                                                                         |          2 |        143 |         29 |         36 |        208 |
+| constants                                                                                                                                                   |          1 |         45 |          0 |          1 |         46 |
+| layout                                                                                                                                                      |          2 |         19 |          0 |          5 |         24 |
+| pages                                                                                                                                                       |          4 |         76 |          1 |          9 |         86 |
+| pages/api                                                                                                                                                   |          1 |          3 |          1 |          1 |          5 |
+| styles                                                                                                                                                      |          4 |        294 |          0 |         50 |        344 |
+| styles/GlobalComponents                                                                                                                                     |          2 |        253 |          0 |         41 |        294 |
+| themes                                                                                                                                                      |          1 |         19 |          3 |          1 |         23 |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                                                                                    | language   | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| /Users/bbj/Library/Mobile Documents/com~apple~CloudDocs/work/portfolio/portfolio_website-STARTER/src/components/Acomplishments/Acomplishments.js            | JavaScript |         15 |          0 |          5 |         20 |
+| /Users/bbj/Library/Mobile Documents/com~apple~CloudDocs/work/portfolio/portfolio_website-STARTER/src/components/Acomplishments/AcomplishmentsStyles.js      | JavaScript |        114 |          0 |         21 |        135 |
+| /Users/bbj/Library/Mobile Documents/com~apple~CloudDocs/work/portfolio/portfolio_website-STARTER/src/components/BackgrooundAnimation/BackgroundAnimation.js | JavaScript |        363 |          0 |          2 |        365 |
+| /Users/bbj/Library/Mobile Documents/com~apple~CloudDocs/work/portfolio/portfolio_website-STARTER/src/components/Footer/Footer.js                            | JavaScript |         12 |          0 |          4 |         16 |
+| /Users/bbj/Library/Mobile Documents/com~apple~CloudDocs/work/portfolio/portfolio_website-STARTER/src/components/Footer/FooterStyles.js                      | JavaScript |        133 |          0 |         27 |        160 |
+| /Users/bbj/Library/Mobile Documents/com~apple~CloudDocs/work/portfolio/portfolio_website-STARTER/src/components/Header/Header.js                            | JavaScript |         45 |          0 |          4 |         49 |
+| /Users/bbj/Library/Mobile Documents/com~apple~CloudDocs/work/portfolio/portfolio_website-STARTER/src/components/Header/HeaderStyles.js                      | JavaScript |        110 |          3 |         16 |        129 |
+| /Users/bbj/Library/Mobile Documents/com~apple~CloudDocs/work/portfolio/portfolio_website-STARTER/src/components/Hero/Hero.js                                | JavaScript |         10 |          0 |          3 |         13 |
+| /Users/bbj/Library/Mobile Documents/com~apple~CloudDocs/work/portfolio/portfolio_website-STARTER/src/components/Hero/HeroStyles.js                          | JavaScript |         16 |          0 |          4 |         20 |
+| /Users/bbj/Library/Mobile Documents/com~apple~CloudDocs/work/portfolio/portfolio_website-STARTER/src/components/NavDropDown/NavDropDown.js                  | JavaScript |         67 |          0 |          9 |         76 |
+| /Users/bbj/Library/Mobile Documents/com~apple~CloudDocs/work/portfolio/portfolio_website-STARTER/src/components/NavDropDown/index.js                        | JavaScript |         10 |          0 |          4 |         14 |
+| /Users/bbj/Library/Mobile Documents/com~apple~CloudDocs/work/portfolio/portfolio_website-STARTER/src/components/Projects/Projects.js                        | JavaScript |         10 |          0 |          3 |         13 |
+| /Users/bbj/Library/Mobile Documents/com~apple~CloudDocs/work/portfolio/portfolio_website-STARTER/src/components/Projects/ProjectsStyles.js                  | JavaScript |         96 |          0 |         16 |        112 |
+| /Users/bbj/Library/Mobile Documents/com~apple~CloudDocs/work/portfolio/portfolio_website-STARTER/src/components/Technologies/Technologies.js                | JavaScript |         10 |          0 |          3 |         13 |
+| /Users/bbj/Library/Mobile Documents/com~apple~CloudDocs/work/portfolio/portfolio_website-STARTER/src/components/Technologies/TechnologiesStyles.js          | JavaScript |        112 |          0 |         22 |        134 |
+| /Users/bbj/Library/Mobile Documents/com~apple~CloudDocs/work/portfolio/portfolio_website-STARTER/src/components/TimeLine/TimeLine.js                        | JavaScript |         13 |         26 |         14 |         53 |
+| /Users/bbj/Library/Mobile Documents/com~apple~CloudDocs/work/portfolio/portfolio_website-STARTER/src/components/TimeLine/TimeLineStyles.js                  | JavaScript |        130 |          3 |         22 |        155 |
+| /Users/bbj/Library/Mobile Documents/com~apple~CloudDocs/work/portfolio/portfolio_website-STARTER/src/constants/constants.js                                 | JavaScript |         45 |          0 |          1 |         46 |
+| /Users/bbj/Library/Mobile Documents/com~apple~CloudDocs/work/portfolio/portfolio_website-STARTER/src/layout/Layout.js                                       | JavaScript |         13 |          0 |          3 |         16 |
+| /Users/bbj/Library/Mobile Documents/com~apple~CloudDocs/work/portfolio/portfolio_website-STARTER/src/layout/LayoutStyles.js                                 | JavaScript |          6 |          0 |          2 |          8 |
+| /Users/bbj/Library/Mobile Documents/com~apple~CloudDocs/work/portfolio/portfolio_website-STARTER/src/pages/_app.js                                          | JavaScript |         10 |          0 |          2 |         12 |
+| /Users/bbj/Library/Mobile Documents/com~apple~CloudDocs/work/portfolio/portfolio_website-STARTER/src/pages/_document.js                                     | JavaScript |         40 |          0 |          3 |         43 |
+| /Users/bbj/Library/Mobile Documents/com~apple~CloudDocs/work/portfolio/portfolio_website-STARTER/src/pages/api/hello.js                                     | JavaScript |          3 |          1 |          1 |          5 |
+| /Users/bbj/Library/Mobile Documents/com~apple~CloudDocs/work/portfolio/portfolio_website-STARTER/src/pages/index.js                                         | JavaScript |         23 |          0 |          3 |         26 |
+| /Users/bbj/Library/Mobile Documents/com~apple~CloudDocs/work/portfolio/portfolio_website-STARTER/src/styles/GlobalComponents/Button.js                      | JavaScript |          8 |          0 |          4 |         12 |
+| /Users/bbj/Library/Mobile Documents/com~apple~CloudDocs/work/portfolio/portfolio_website-STARTER/src/styles/GlobalComponents/index.js                       | JavaScript |        245 |          0 |         37 |        282 |
+| /Users/bbj/Library/Mobile Documents/com~apple~CloudDocs/work/portfolio/portfolio_website-STARTER/src/styles/globals.js                                      | JavaScript |         31 |          0 |          6 |         37 |
+| /Users/bbj/Library/Mobile Documents/com~apple~CloudDocs/work/portfolio/portfolio_website-STARTER/src/styles/theme.js                                        | JavaScript |         10 |          0 |          3 |         13 |
+| /Users/bbj/Library/Mobile Documents/com~apple~CloudDocs/work/portfolio/portfolio_website-STARTER/src/themes/default.js                                      | JavaScript |         19 |          3 |          1 |         23 |
+| Total                                                                                                                                                       |            |      1,719 |         36 |        245 |      2,000 |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
